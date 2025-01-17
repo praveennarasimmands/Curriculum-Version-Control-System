@@ -107,8 +107,3 @@ The **Curriculum Version Control System** streamlines curriculum management by o
 This project is licensed under the MIT License.
 
 ---
-
-### **30-Word Project Description**
-The Curriculum Version Control System uses S3 Versioning to track and manage updates to course materials, providing educators and students with version comparison tools and easy access to historical content.  
-
----
